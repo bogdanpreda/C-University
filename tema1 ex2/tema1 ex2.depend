@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446558974 source:c:\users\bogdan p\desktop\faculta\p1\tema1 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1447226491 source:c:\users\bogdan p\desktop\faculta\p1\tema lab3-4\tema1 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

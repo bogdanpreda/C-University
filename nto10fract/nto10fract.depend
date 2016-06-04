@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447145722 source:c:\users\bogdan p\desktop\faculta\p1\nto10fract\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
