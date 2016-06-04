@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448826108 source:c:\users\bogdan p\desktop\faculta\p1\lab8\pontertest\main.c
+	<stdio.h>
+	<stdlib.h>
+
